@@ -4,6 +4,7 @@
 ![paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulojr&show_icons=true&theme=dracula)
 
 
+
 <H3>Technology</H3>
 
 ### Front-end
